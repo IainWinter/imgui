@@ -48,3 +48,6 @@ examples/example_null/example_null
 examples/example_sdl_opengl2/example_sdl_opengl2
 examples/example_sdl_opengl3/example_sdl_opengl3
 /examples/example_glfw_vulkan/out/build/x64-Debug (default)
+build/
+lib/
+bin/
